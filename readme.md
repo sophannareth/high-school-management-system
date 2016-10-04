@@ -10,7 +10,7 @@
 
 ## Author
 
-- Noy Sophannreth
+- Noy Sophannareth
 - Moeun Sopheakdey
 
 ## About Project
